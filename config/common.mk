@@ -155,7 +155,7 @@ PRODUCT_PACKAGES += \
     AudioFX \
     CMFileManager \
     CMSettingsProvider \
-    CMUpdater \
+    HadesOTA \
     CMWallpapers \
     CyanogenSetupWizard \
     Eleven \
